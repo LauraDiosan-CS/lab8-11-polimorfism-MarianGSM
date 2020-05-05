@@ -1,0 +1,5 @@
+Forrest Gump 23.08.2017 Cluj-Napoca 5 43
+The Avengers 22.10.2019 Iasi 78 52
+IronMan 15.10.2006 Craiova 59 23
+SpiderMan 11.08.2007 Timisoara  156 3
+BatMan 12.06.2017 Zalau 55 7

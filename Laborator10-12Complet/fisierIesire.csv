@@ -1,0 +1,64 @@
+concerte
+nume artist,data spetacol,locatie,locuri disponibile,locuri ocupate
+artist1,12.martie.2015,Cluj,78,122
+artist2,19.august.2008,Bacau,15,72
+artist2,29.iulie.2012,Iulius-Mall,18,79
+artist3,8.septembrie.2016,Piata-Unirii,189,12
+artist4,20.mai.2019,Flying,45,6
+artist5,4.noiembrie.2013,Piata-Unirii,56,78
+filme
+titlu film,actori,data,locatia,locDisp,locOcup
+film1-actor1,23.08.2017,Cluj-Napoca,5,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+
+evenimentele cu denumirea precizata
+
+
+concerte
+nume artist,data spetacol,locatie,locuri disponibile,locuri ocupate
+artist1,12.martie.2015,Cluj,78,122
+artist2,19.august.2008,Bacau,15,72
+artist2,29.iulie.2012,Iulius-Mall,18,79
+artist3,8.septembrie.2016,Piata-Unirii,189,12
+artist4,20.mai.2019,Flying,45,6
+artist5,4.noiembrie.2013,Piata-Unirii,56,78
+filme
+titlu film,actori,data,locatia,locDisp,locOcup
+film1-actor1,23.08.2017,Cluj-Napoca,5,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+
+lista de evenimente actuala: 
+artist1,12.martie.2015,Cluj,78,122
+artist2,19.august.2008,Bacau,15,72
+artist2,29.iulie.2012,Iulius-Mall,18,79
+artist3,8.septembrie.2016,Piata-Unirii,189,12
+artist4,20.mai.2019,Flying,45,6
+artist5,4.noiembrie.2013,Piata-Unirii,56,78
+film1-actor1,23.08.2017,Cluj-Napoca,5,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+
+
+concerte
+nume artist,data spetacol,locatie,locuri disponibile,locuri ocupate
+artist1,12.martie.2015,Cluj,78,122
+artist2,19.august.2008,Bacau,15,72
+artist2,29.iulie.2012,Iulius-Mall,18,79
+artist3,8.septembrie.2016,Piata-Unirii,189,12
+artist4,20.mai.2019,Flying,45,6
+artist5,4.noiembrie.2013,Piata-Unirii,56,78
+filme
+titlu film,actori,data,locatia,locDisp,locOcup
+film1-actor1,23.08.2017,Cluj-Napoca,5,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
+,,,,43,-858993460
